@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>servlet-api</artifactId>
-			<version>9.0.17</version>
+			<version>9.0.14</version>
 		</dependency>
 		<!-- Mail Dependency -->
 		<dependency>
