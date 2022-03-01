@@ -28,8 +28,8 @@
   <dependencies>
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
-			<artifactId>servlet-api</artifactId>
-			<version>4.0.1</version>
+			<artifactId>tomcat-servlet-api</artifactId>
+			<version>9.0.17</version>
 		</dependency>
 		<!-- Mail Dependency -->
 		<dependency>
