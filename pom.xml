@@ -46,7 +46,7 @@
 		<!-- Spring Integration -->
 		<dependency>
 			<groupId>org.springframework</groupId>
-			<artifactId>spring</artifactId>
+			<artifactId>spring-core</artifactId>
 			<version>5.2.19.RELEASE</version>
 		</dependency>
 
